@@ -1,4 +1,4 @@
-# HWS-01-WeSplit
+# WeSplit
 
 ### Hacking with SwiftUI - Project 1
 
